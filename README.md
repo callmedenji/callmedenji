@@ -1,6 +1,6 @@
 - 👋 you can call me denji
 - 😝 i'm actually a lawyer, but i think coding is fun
-- 🌱 currently learning html5 and css3...
+- 🌱 currently learning html5, css3 and javascript...
 - ⚡ always listening to music
 <!---
 callmedenji/callmedenji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
