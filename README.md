@@ -1,6 +1,6 @@
 - 👋 you can call me denji
 - 😝 i'm actually a lawyer, but i think coding is fun
-- 🌱 in progres...
+- 🌱 in progress...
 - ⚡ listening to music, reading, watching, coding.
 
 <!---
